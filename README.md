@@ -10,4 +10,6 @@ also compares both using the KL divergence and JS distance. Finally, the
 script calculates the probability of observing the group in partitions of
 different size.
 
+Data used in the publication are available in https://doi.org/10.5061/dryad.51b68
+
 If you use this script for academic research, please cite the paper mentioned above.
